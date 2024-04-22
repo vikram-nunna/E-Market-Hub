@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0dfdf70d.css",
+    "main.js": "/static/js/main.232f2e45.js",
+    "static/js/453.759f5160.chunk.js": "/static/js/453.759f5160.chunk.js",
+    "static/media/mobiles.jpg": "/static/media/mobiles.0b7a5d4b2943cc8c06ec.jpg",
+    "static/media/mobiles1.jpg": "/static/media/mobiles1.6537b94e3592d3a3b3fd.jpg",
+    "static/media/mobile.jpg": "/static/media/mobile.d64e3f2d1c8694e05016.jpg",
+    "static/media/tvs.jpg": "/static/media/tvs.7a0724d2099cbc46e15c.jpg",
+    "static/media/laptops.jpg": "/static/media/laptops.11ec8e72cca324f08876.jpg",
+    "static/media/laptops1.jpg": "/static/media/laptops1.29e770a8446d56a272b3.jpg",
+    "static/media/laptop.jpg": "/static/media/laptop.aa113d72a8684a0fb16d.jpg",
+    "static/media/tvs1.jpg": "/static/media/tvs1.0473c0357fc922342b18.jpg",
+    "static/media/television.jpg": "/static/media/television.64b6a2263789fe9e7569.jpg",
+    "static/media/header.jpg": "/static/media/header.35ed1fca985a7e10c71b.jpg",
+    "static/media/t1.jpg": "/static/media/t1.514d775db6c9bc23c034.jpg",
+    "static/media/panda.jpg": "/static/media/panda.b3e97a5fc93add30f035.jpg",
+    "static/media/products.png": "/static/media/products.3af12bc3aeac958db9b1.png",
+    "static/media/box.png": "/static/media/box.b241e1c5a2be319779fb.png",
+    "static/media/pending.png": "/static/media/pending.f70d25b7189cbe8a74d0.png",
+    "static/media/dealer.png": "/static/media/dealer.cca9a44486b7e3f3078a.png",
+    "static/media/replacement.png": "/static/media/replacement.9feabe39d05e311f642d.png",
+    "index.html": "/index.html",
+    "main.0dfdf70d.css.map": "/static/css/main.0dfdf70d.css.map",
+    "main.232f2e45.js.map": "/static/js/main.232f2e45.js.map",
+    "453.759f5160.chunk.js.map": "/static/js/453.759f5160.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dfdf70d.css",
+    "static/js/main.232f2e45.js"
+  ]
+}
